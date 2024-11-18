@@ -1,0 +1,6 @@
+E:\CODING PROJECTS\Backend Dev\C#\Backend DEvelopment\WEBAPITEST\obj\Debug\net8.0\WEBAPITEST.csproj.AssemblyReference.cache
+E:\CODING PROJECTS\Backend Dev\C#\Backend DEvelopment\WEBAPITEST\obj\Debug\net8.0\WEBAPITEST.AssemblyInfoInputs.cache
+E:\CODING PROJECTS\Backend Dev\C#\Backend DEvelopment\WEBAPITEST\obj\Debug\net8.0\WEBAPITEST.AssemblyInfo.cs
+E:\CODING PROJECTS\Backend Dev\C#\Backend DEvelopment\WEBAPITEST\obj\Debug\net8.0\WEBAPITEST.csproj.CoreCompileInputs.cache
+E:\CODING PROJECTS\Backend Dev\C#\Backend DEvelopment\WEBAPITEST\obj\Debug\net8.0\WEBAPITEST.MvcApplicationPartsAssemblyInfo.cs
+E:\CODING PROJECTS\Backend Dev\C#\Backend DEvelopment\WEBAPITEST\obj\Debug\net8.0\WEBAPITEST.MvcApplicationPartsAssemblyInfo.cache

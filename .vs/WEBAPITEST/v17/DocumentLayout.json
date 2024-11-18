@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\webapitest\\src\\presentation\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|solutionrelative:src\\presentation\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\webapitest\\src\\presentation\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|solutionrelative:src\\presentation\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\webapitest\\src\\infrastructure\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|solutionrelative:src\\infrastructure\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\webapitest\\src\\application\\core\\models\\maintask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|solutionrelative:src\\application\\core\\models\\maintask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\webapitest\\src\\application\\core\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|solutionrelative:src\\application\\core\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\webapitest\\src\\application\\core\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|solutionrelative:src\\application\\core\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\webapitest\\src\\application\\core\\models\\studentmanagementsystemmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|solutionrelative:src\\application\\core\\models\\studentmanagementsystemmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\webapitest\\src\\application\\core\\models\\studentmanagementsystemmodels\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|solutionrelative:src\\application\\core\\models\\studentmanagementsystemmodels\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\webapitest\\src\\application\\core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|solutionrelative:src\\application\\core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\webapitest\\src\\presentation\\controllers\\taskhandlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|solutionrelative:src\\presentation\\controllers\\taskhandlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\webapitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7A2FB0-D73F-4A9B-9843-4EE9B4BA31BE}|WEBAPITEST.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Presentation\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\Controllers\\TasksController.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Presentation\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "src\\Presentation\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:39:16.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Presentation\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Presentation\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "src\\Presentation\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:39:15.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Infrastructure\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\SchoolContext.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Infrastructure\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:39:14.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Application\\Core\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Core\\Models\\Enrollment.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Application\\Core\\Models\\Enrollment.cs",
+              "RelativeToolTip": "src\\Application\\Core\\Models\\Enrollment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:39:10.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Application\\Core\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Core\\Models\\Course.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Application\\Core\\Models\\Course.cs",
+              "RelativeToolTip": "src\\Application\\Core\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:39:09.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Application\\Core\\Models\\StudentManagementSystemModels\\User.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Core\\Models\\StudentManagementSystemModels\\User.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Application\\Core\\Models\\StudentManagementSystemModels\\User.cs",
+              "RelativeToolTip": "src\\Application\\Core\\Models\\StudentManagementSystemModels\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:31:34.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskhandlerController.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Presentation\\Controllers\\TaskhandlerController.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\Controllers\\TaskhandlerController.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Presentation\\Controllers\\TaskhandlerController.cs",
+              "RelativeToolTip": "src\\Presentation\\Controllers\\TaskhandlerController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:54:20.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Application\\Core\\Models\\StudentManagementSystemModels\\TaskModel.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Core\\Models\\StudentManagementSystemModels\\TaskModel.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Application\\Core\\Models\\StudentManagementSystemModels\\TaskModel.cs",
+              "RelativeToolTip": "src\\Application\\Core\\Models\\StudentManagementSystemModels\\TaskModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:52:14.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:35:23.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainTask.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Application\\Core\\Models\\MainTask.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Core\\Models\\MainTask.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Application\\Core\\Models\\MainTask.cs",
+              "RelativeToolTip": "src\\Application\\Core\\Models\\MainTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:34:40.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Application\\Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Core\\Models\\Student.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\WEBAPITEST\\src\\Application\\Core\\Models\\Student.cs",
+              "RelativeToolTip": "src\\Application\\Core\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:36:27.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

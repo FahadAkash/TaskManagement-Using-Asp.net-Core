@@ -1,12 +1,385 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManager\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\src\\taskmanagement\\infrastruture\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\src\\taskmanagement\\infrastruture\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\src\\taskmanagement\\infrastruture\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\src\\taskmanagement\\infrastruture\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\src\\taskmanagement\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\src\\taskmanagement\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\src\\taskmanagement\\domain\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\src\\taskmanagement\\domain\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\src\\taskmanagement\\api\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\src\\taskmanagement\\api\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\src\\taskmanagement\\api\\middleware\\protextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\src\\taskmanagement\\api\\middleware\\protextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\src\\taskmanagement\\api\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\src\\taskmanagement\\api\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\src\\taskmanagement\\api\\database\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\src\\taskmanagement\\api\\database\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\src\\taskmanagement\\api\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\src\\taskmanagement\\api\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\src\\taskmanagement\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\src\\taskmanagement\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\src\\taskmanagement\\api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\src\\taskmanagement\\api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\src\\taskmanagement\\api\\controllers\\salesproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\src\\taskmanagement\\api\\controllers\\salesproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\src\\taskmanagement\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\src\\taskmanagement\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fahadakash\\AppData\\Local\\Temp\\mlsrozmj..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A1A2BF-4851-4A03-9D7E-60B270193EA2}|taskmanager.client\\taskmanager.client.esproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A0A1A2BF-4851-4A03-9D7E-60B270193EA2}|taskmanager.client\\taskmanager.client.esproj|solutionrelative:taskmanager.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A1A2BF-4851-4A03-9D7E-60B270193EA2}|taskmanager.client\\taskmanager.client.esproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0A1A2BF-4851-4A03-9D7E-60B270193EA2}|taskmanager.client\\taskmanager.client.esproj|solutionrelative:taskmanager.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A1A2BF-4851-4A03-9D7E-60B270193EA2}|taskmanager.client\\taskmanager.client.esproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A0A1A2BF-4851-4A03-9D7E-60B270193EA2}|taskmanager.client\\taskmanager.client.esproj|solutionrelative:taskmanager.client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6505582F-F0CA-4542-B01F-75B3DA7029C3}|TaskManager.Server\\TaskManager.Server.csproj|solutionrelative:taskmanager.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A1A2BF-4851-4A03-9D7E-60B270193EA2}|taskmanager.client\\taskmanager.client.esproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A0A1A2BF-4851-4A03-9D7E-60B270193EA2}|taskmanager.client\\taskmanager.client.esproj|solutionrelative:taskmanager.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A1A2BF-4851-4A03-9D7E-60B270193EA2}|taskmanager.client\\taskmanager.client.esproj|e:\\coding projects\\dotnetproject\\task management\\taskmanagement-using-asp.net-core\\taskmanager.client\\src\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A0A1A2BF-4851-4A03-9D7E-60B270193EA2}|taskmanager.client\\taskmanager.client.esproj|solutionrelative:taskmanager.client\\src\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Domain\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\src\\Taskmanagement\\Domain\\Entities\\Task.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Domain\\Entities\\Task.cs",
+              "RelativeToolTip": "TaskManager.Server\\src\\Taskmanagement\\Domain\\Entities\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:04:29.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProtextController.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\middleware\\ProtextController.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\src\\Taskmanagement\\Api\\middleware\\ProtextController.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\middleware\\ProtextController.cs",
+              "RelativeToolTip": "TaskManager.Server\\src\\Taskmanagement\\Api\\middleware\\ProtextController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:04:25.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:04:13.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Database\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\src\\Taskmanagement\\Api\\Database\\ApplicationDBContext.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Database\\ApplicationDBContext.cs",
+              "RelativeToolTip": "TaskManager.Server\\src\\Taskmanagement\\Api\\Database\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:43:19.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Database\\User.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\src\\Taskmanagement\\Api\\Database\\User.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Database\\User.cs",
+              "RelativeToolTip": "TaskManager.Server\\src\\Taskmanagement\\Api\\Database\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:48:50.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\src\\Taskmanagement\\Api\\Model\\Product.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Model\\Product.cs",
+              "RelativeToolTip": "TaskManager.Server\\src\\Taskmanagement\\Api\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:48:47.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\src\\Taskmanagement\\Domain\\Entities\\User.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TaskManager.Server\\src\\Taskmanagement\\Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:25:45.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Infrastruture\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\src\\Taskmanagement\\Infrastruture\\Repositories\\TaskRepository.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Infrastruture\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "TaskManager.Server\\src\\Taskmanagement\\Infrastruture\\Repositories\\TaskRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:00:29.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Infrastruture\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\src\\Taskmanagement\\Infrastruture\\AppDbContext.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Infrastruture\\AppDbContext.cs",
+              "RelativeToolTip": "TaskManager.Server\\src\\Taskmanagement\\Infrastruture\\AppDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:48:27.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\WeatherForecast.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "TaskManager.Server\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:34:05.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\TasksController.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:13:33.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalesProductController.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\SalesProductController.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\SalesProductController.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\SalesProductController.cs",
+              "RelativeToolTip": "TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\SalesProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:48:08.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TaskManager.Server\\src\\Taskmanagement\\Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:14:06.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MigrationExtensions.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Extensions\\MigrationExtensions.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\src\\Taskmanagement\\Api\\Extensions\\MigrationExtensions.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\src\\Taskmanagement\\Api\\Extensions\\MigrationExtensions.cs",
+              "RelativeToolTip": "TaskManager.Server\\src\\Taskmanagement\\Api\\Extensions\\MigrationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:48:53.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.css",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\taskmanager.client\\src\\App.css",
+              "RelativeDocumentMoniker": "taskmanager.client\\src\\App.css",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\taskmanager.client\\src\\App.css",
+              "RelativeToolTip": "taskmanager.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-14T07:09:14.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManager.Server\\appsettings.json",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\appsettings.json",
+              "RelativeToolTip": "TaskManager.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T04:52:39.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager.Server\\Program.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\Program.cs",
+              "RelativeToolTip": "TaskManager.Server\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:19:48.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\fahadakash\\AppData\\Local\\Temp\\mlsrozmj..sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-16T16:49:54.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\taskmanager.client\\tailwind.config.js",
+              "RelativeDocumentMoniker": "taskmanager.client\\tailwind.config.js",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\taskmanager.client\\tailwind.config.js",
+              "RelativeToolTip": "taskmanager.client\\tailwind.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-14T07:08:15.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "package.json",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\taskmanager.client\\package.json",
+              "RelativeDocumentMoniker": "taskmanager.client\\package.json",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\taskmanager.client\\package.json",
+              "RelativeToolTip": "taskmanager.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T07:05:33.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TaskManager.Server\\appsettings.Development.json",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\TaskManager.Server\\appsettings.Development.json",
+              "RelativeToolTip": "TaskManager.Server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T04:52:42.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "vite-env.d.ts",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\taskmanager.client\\src\\vite-env.d.ts",
+              "RelativeDocumentMoniker": "taskmanager.client\\src\\vite-env.d.ts",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\taskmanager.client\\src\\vite-env.d.ts",
+              "RelativeToolTip": "taskmanager.client\\src\\vite-env.d.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-14T06:18:00.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "main.tsx",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\taskmanager.client\\src\\main.tsx",
+              "RelativeDocumentMoniker": "taskmanager.client\\src\\main.tsx",
+              "ToolTip": "E:\\CODING PROJECTS\\DotnetProject\\Task management\\TaskManagement-Using-Asp.net-Core\\taskmanager.client\\src\\main.tsx",
+              "RelativeToolTip": "taskmanager.client\\src\\main.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-14T06:00:28.606Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
